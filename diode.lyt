@@ -1,0 +1,55 @@
+DF-ISE text
+
+Info {
+  version = 1.0
+  type    = layout
+  nb_vertices = 10
+  nb_polygons = 3
+  nb_regions  = 3
+  regions     = [ "M1" "M2" "SIM2D" ]
+  materials   = [ layer layer layer ]
+}
+
+Data {
+
+Vertices (10) {
+1.0000 1.0000
+3.0000 1.0000
+3.0000 3.0000
+1.0000 3.0000
+0.5000 0.5000
+3.5000 0.5000
+3.5000 3.5000
+0.5000 3.5000
+2.0000 2.0000
+3.5000 2.0000
+
+}
+
+Polygons (3) {
+ 4 0 1 2 3
+ 4 4 5 6 7
+ 2 8 9
+}
+  Region ("M1") {
+    material = layer
+    Elements (1) {
+ 0
+    }
+  }
+
+  Region ("M2") {
+    material = layer
+    Elements (1) {
+ 1
+    }
+  }
+
+  Region ("SIM2D") {
+    material = layer
+    Elements (1) {
+ 2
+    }
+  }
+
+}
