@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Users\romaz\Documents\labs\lab3mo
+vone_hot_div
+!i10b 1
+!s100 @`YfhJ[X]ce]>M@??R@<U2
+IJda?C=KEDKh1ljc8f5RQU2
+VK?2f_GgUY^XlhzX`R7k0Z3
+Z1 dE:\Users\romaz\Documents\labs\lab3mo
+w1603911365
+8one_hot_div.v
+Fone_hot_div.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z3 !s108 1603916152.246000
+Z4 !s107 one_hot_div_tb.v|one_hot_div.v|
+Z5 !s90 -reportprogress|300|one_hot_div.v|one_hot_div_tb.v|
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+!s100 BgOd1CBDal8:Q[m]M2>zj2
+I2;GhMSO32^n]hAJE3EB=C2
+Vc?;57_3Xc[^j@Ao9_g6aJ2
+R1
+w1603916060
+8one_hot_div_tb.v
+Fone_hot_div_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!s101 -O0
+o-O0
